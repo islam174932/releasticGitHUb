@@ -1,0 +1,6 @@
+name : Test my project
+description : Test my project
+on :
+push :  
+branches :
+- main
